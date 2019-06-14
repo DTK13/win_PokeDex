@@ -1,0 +1,13 @@
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\bin\Debug\win_PokeDex.exe.config
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\bin\Debug\win_PokeDex.exe
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\bin\Debug\win_PokeDex.pdb
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.csprojAssemblyReference.cache
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.Form1.resources
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.Properties.Resources.resources
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.csproj.GenerateResource.cache
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.csproj.CoreCompileInputs.cache
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.csproj.CopyComplete
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.exe
+C:\Users\diyarkarim\source\repos\win_PokeDex\win_PokeDex\obj\Debug\win_PokeDex.pdb

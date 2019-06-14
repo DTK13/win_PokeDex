@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "win_PokeDex", "win_PokeDex\win_PokeDex.csproj", "{1EC5E32D-3A84-4FE9-BDD5-747230D88CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EC5E32D-3A84-4FE9-BDD5-747230D88CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EC5E32D-3A84-4FE9-BDD5-747230D88CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EC5E32D-3A84-4FE9-BDD5-747230D88CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EC5E32D-3A84-4FE9-BDD5-747230D88CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D845F9-05D1-45D4-B09D-697C74A11C16}
+	EndGlobalSection
+EndGlobal
